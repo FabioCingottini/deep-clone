@@ -1,0 +1,1 @@
+export function deepClone<T>(unknownToClone: T, onNonNativeItem: <U>(item: U) => U): T;

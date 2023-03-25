@@ -1,0 +1,1 @@
+export function checkIsObject(obj: unknown): obj is Object;

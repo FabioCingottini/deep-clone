@@ -1,0 +1,15 @@
+{
+  "name": "deep-clone",
+  "version": "1.0.0",
+  "description": "A function that deep clones an object or array and optionally accepts a customizer function to customize the cloning process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Fabio Cingottini <fabio.cingottini@users.noreply.github.com",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
